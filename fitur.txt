@@ -1,0 +1,10 @@
+manajemen user /
+edit data /
+tambah data /
+filter /
+cetak pembelian /
+lokasi tempat /
+block selama 3 menit
+lupa password /
+kontak admin
+
